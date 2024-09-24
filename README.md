@@ -146,7 +146,7 @@ honeybot init
 honeybot run
 ```
 
-in settings/CONNECT.conf
+in settings/settings.toml
 
 ```
 [INFO]
@@ -156,7 +156,7 @@ port = 6667
 name = appinventormuBot
 ```
 
-In settings/PLUGINS.conf listed plugins under plugins/downloaded will load. Plugins listed under plugins/core are auto loaded.
+In settings/settings.toml listed plugins under PLUGINS/downloaded will load. Plugins in directory plugins/core are auto loaded.
 
 ## 💻 Seeing The Bot In Action
 
