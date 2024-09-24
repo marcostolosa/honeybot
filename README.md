@@ -11,16 +11,6 @@
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/6329/badge)](https://bestpractices.coreinfrastructure.org/projects/6329)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/pyhoneybot/honeybot/badge)](https://api.securityscorecards.dev/projects/github.com/pyhoneybot/honeybot)
 
-## Launching pyhoneybot Rewards
-
-Contributed to pyhoneybot? Here is a big thank you from our community to you.
-Claim your badge and showcase them with pride.
-Let us inspire more folks !
-
-![pyhoneybot Badges](https://aviyel.com/assets/uploads/rewards/share/project/84/512/share.png)
-
-### **[Claim Now!](https://aviyel.com/projects/84/pyhoneybot/rewards)**
-
 <hr>
 🇲🇺 🇺🇸 🇨🇦 🇦🇷 🇮🇳 🇬🇧 🇬🇬 🇧🇷 🇸🇽 🇵🇱 🇩🇪 🇲🇼 🇲🇦
 
