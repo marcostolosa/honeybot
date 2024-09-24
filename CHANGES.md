@@ -1,3 +1,6 @@
+## 6.1.1
+
+- Minor fixes, delete several files from settings/
 
 ## 6.0.2
 
