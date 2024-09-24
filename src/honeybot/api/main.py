@@ -13,7 +13,7 @@ import tomli
 
 from honeybot.api import commands, memory
 from honeybot.api import print as output
-from honeybot.api.utils import configfile_to_list, get_requirements, prevent_none
+from honeybot.api.utils import get_requirements, prevent_none
 
 plugins = []
 
