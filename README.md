@@ -134,6 +134,7 @@ GUI clients are used to manage plugins, launch bot as well as specify credential
 | 🎂 birthday            | Shows birthday match probability on a people group.                                   | [@paulosgf](https://github.com/paulosgf)                                                                 |
 | 🏀 basketball          | Shows information about the medals of euroBasket and Basketball world cup             | [@kefthymic](https://github.com/kefthymic)                                                               |
 | 🎬 movies_imdb         | Returns certain information about a certain movie or shows 250 all time best movies   | [@ZoeyKats](https://github.com/ZoeyKats)                                                                 |
+| ⛩️ anime               | Returns certain information about the top 100 anime                                   | [@cdkontos](https://github.com/cdkontos)                                                                 |
 
 ## ⚡ Quickstart
 
